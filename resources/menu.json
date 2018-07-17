@@ -1,0 +1,32 @@
+[
+    {
+        "titel": "Orga",
+        "icon": "",
+        "link": "#20",
+        "subitems": []
+    },
+    {
+        "titel": "Projekt",
+        "icon": "",
+        "link": "#21",
+        "subitems": []
+    },
+    {
+        "titel": "01",
+        "icon": "",
+        "link": "#1",
+        "subitems": []
+    },
+    {
+        "titel": "02",
+        "icon": "",
+        "link": "#1",
+        "subitems": []
+    },
+    {
+        "titel": "03",
+        "icon": "",
+        "link": "#1",
+        "subitems": []
+    }
+]

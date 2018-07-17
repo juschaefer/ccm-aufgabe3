@@ -1,0 +1,23 @@
+{
+  "name": "ccm-aufgabe3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ccm.blank.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juschaefer/ccm-aufgabe3.git"
+  },
+  "author": "Julian Schäfer <Julian.Schaefer@h-brs.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juschaefer/ccm-aufgabe3/issues"
+  },
+  "homepage": "https://github.com/juschaefer/ccm-aufgabe3#readme",
+  "dependencies": {
+    "bootstrap": "^4.1.2",
+    "font-awesome": "^4.7.0"
+  }
+}
