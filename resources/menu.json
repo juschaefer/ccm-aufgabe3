@@ -1,9 +1,11 @@
 [
     {
         "titel": "Orga",
-        "icon": "",
+        "icon": "fas fa-info",
         "link": "#20",
-        "subitems": []
+        "subitems": [
+
+        ]
     },
     {
         "titel": "Projekt",
@@ -13,20 +15,32 @@
     },
     {
         "titel": "01",
-        "icon": "",
+        "icon": "fas fa-university",
         "link": "#1",
         "subitems": []
     },
     {
         "titel": "02",
-        "icon": "",
-        "link": "#1",
-        "subitems": []
+        "icon": "fas fa-university",
+        "link": "#2",
+        "subitems": [
+            {
+                "titel": "Subitem",
+                "icon": "fas fa-info",
+                "link": "#201",
+                "subitems": [{
+                    "titel": "Subitem",
+                    "icon": "fas fa-info",
+                    "link": "#203",
+                    "subitems": []
+                }]
+            }
+        ]
     },
     {
         "titel": "03",
-        "icon": "",
-        "link": "#1",
+        "icon": "fas fa-university",
+        "link": "#3",
         "subitems": []
     }
 ]
